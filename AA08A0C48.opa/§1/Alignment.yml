@@ -1,0 +1,18 @@
+segment_sources:
+  P92244E46:
+    type: origin_type
+    relation: translation
+    language: bo
+  P3F3A9148:
+    type: origin_type
+    relation: translation
+    language: zh
+  P69A95876:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  7a350075693e4475b9d96012975be37f:
+    P92244E46: 50bd1ef93b0f46909ef68dfd460273ca
+    P3F3A9148: 790b398419d74cea988b7891d7d5c1ef
+    P69A95876: 72bc68b7a8e0450091bcef832015fd1b
